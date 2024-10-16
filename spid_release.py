@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
+print("Program is Running")
 
 def submit_form():
     name = name_entry.get()
